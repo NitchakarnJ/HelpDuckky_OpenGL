@@ -8,7 +8,7 @@ Navigate through the maze, collect coins, find the gun, defeat enemies, and esca
 
 ## 🎮 Gameplay Video (30-second Screen Recording)
 
-https://user-images.githubusercontent.com/your_upload_here/demo-video.mp4  
+[https://user-images.githubusercontent.com/your_upload_here/demo-video.mp4  ](https://youtu.be/M1kkcwXeQpk)
 *(Replace this with your actual GitHub-hosted video or YouTube link)*
 
 ---
@@ -16,16 +16,16 @@ https://user-images.githubusercontent.com/your_upload_here/demo-video.mp4
 ## 📸 Screenshots
 
 ### Main Menu
-![menu](screenshots/menu.png)
+![menu]("C:\Users\User\OneDrive\Pictures\Screenshots 1\Screenshot 2025-12-09 124033.png")
 
 ### Gameplay
-![gameplay](screenshots/gameplay.png)
+![gameplay]("C:\Users\User\OneDrive\Pictures\Screenshots 1\Screenshot 2025-12-09 092149.png")
 
 ### Win Screen
-![win](screenshots/win.png)
+![win]("C:\Users\User\OneDrive\Pictures\Screenshots 1\Screenshot 2025-12-09 092222.png")
 
 ### Lose Screen
-![lose](screenshots/lose.png)
+![lose]("C:\Users\User\OneDrive\Pictures\Screenshots 1\Screenshot 2025-12-09 092132.png")
 
 *(Place your screenshots inside a `/screenshots` folder in the repo — screenshots are allowed.)*
 
