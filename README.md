@@ -16,7 +16,7 @@ Navigate through the maze, collect coins, find the gun, defeat enemies, and esca
 ## 📸 Screenshots
 
 ### Main Menu
-![menu]("C:\Users\User\OneDrive\Pictures\Screenshots 1\Screenshot 2025-12-09 124033.png")
+![menu](C:\Users\User\OneDrive\Pictures\Screenshots 1\Screenshot 2025-12-09 124033.png)
 
 ### Gameplay
 ![gameplay]("C:\Users\User\OneDrive\Pictures\Screenshots 1\Screenshot 2025-12-09 092149.png")
