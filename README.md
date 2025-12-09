@@ -27,8 +27,6 @@ Navigate through the maze, collect coins, find the gun, defeat enemies, and esca
 ### Lose Screen
 ![lose](screenshots/lose.png)
 
-*(Place your screenshots inside a `/screenshots` folder in the repo — screenshots are allowed.)*
-
 ---
 
 ## 🕹️ Play on Itch.io  
