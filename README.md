@@ -16,16 +16,16 @@ Navigate through the maze, collect coins, find the gun, defeat enemies, and esca
 ## 📸 Screenshots
 
 ### Main Menu
-![menu](C:\Users\User\OneDrive\Pictures\Screenshots 1\Screenshot 2025-12-09 124033.png)
+![menu](screenshots/menu.png)
 
 ### Gameplay
-![gameplay]("C:\Users\User\OneDrive\Pictures\Screenshots 1\Screenshot 2025-12-09 092149.png")
+![gameplay](screenshots/gameplay.png)
 
 ### Win Screen
-![win]("C:\Users\User\OneDrive\Pictures\Screenshots 1\Screenshot 2025-12-09 092222.png")
+![win](screenshots/win.png)
 
 ### Lose Screen
-![lose]("C:\Users\User\OneDrive\Pictures\Screenshots 1\Screenshot 2025-12-09 092132.png")
+![lose](screenshots/lose.png)
 
 *(Place your screenshots inside a `/screenshots` folder in the repo — screenshots are allowed.)*
 
